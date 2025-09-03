@@ -26,8 +26,7 @@ I specialize in turning raw data into actionable insights and delivering robust,
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Real-Time Data Quality Validation Platform](https://github.com/your-repo)** – Kafka + Spark + Delta Lake + Superset  
-🔹 **[Used Cars Data Pipeline](https://github.com/your-repo)** – dbt + Airflow + PostgreSQL + Superset dashboard  
+🔹 **[Used Cars Data Pipeline](https://github.com/ATanskiy/used_cars_dbt_project)** – dbt + Airflow + PostgreSQL + Superset dashboard  
 🔹 **[Sports Gear Sales ETL](https://github.com/your-repo)** – Cloud pipeline with MinIO, Airflow, dbt  
 
 ---
