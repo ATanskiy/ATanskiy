@@ -21,13 +21,16 @@ I specialize in turning raw data into actionable insights and delivering robust,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Apache Superset](https://img.shields.io/badge/Superset-20A7C9?style=for-the-badge&logo=apache-superset&logoColor=white)  
 ![Dagster](https://img.shields.io/badge/Dagster-FF6F00?style=for-the-badge&logo=dagster&logoColor=white)  
+![Apache Iceberg](https://img.shields.io/badge/Iceberg-0D47A1?style=for-the-badge&logo=apacheiceberg&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
 
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Used Cars Data Pipeline](https://github.com/ATanskiy/used_cars_dbt_project)** – dbt + Airflow + PostgreSQL + Superset dashboard  
-🔹 **[Sports Gear Sales ETL](https://github.com/ATanskiy/e2e_sport_sales_pipeline_with_airflow)** – Cloud pipeline with MinIO, Airflow, dbt  
+🔹 **[Used Cars Data Pipeline](https://github.com/ATanskiy/used_cars_dbt_project)** – dbt + Dagster + PostgreSQL + Superset dashboard  
+🔹 **[Sports Gear Sales ETL](https://github.com/ATanskiy/e2e_sport_sales_pipeline_with_airflow)** – ELT pipeline with MinIO, Airflow, postgres and Power BI dashboard  
 
 ---
