@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alex  
+# Hi 👋, I'm Alex  Tanskii
 
 🚀 Data Engineer with proven experience in designing and building **scalable data pipelines**, and **cloud-native ETL workflows**.  
 I specialize in turning raw data into actionable insights and delivering robust, production-ready solutions.  
