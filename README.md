@@ -30,7 +30,7 @@ I specialize in turning raw data into actionable insights and delivering robust,
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Real Time cars alerting pipeline](https://github.com/ATanskiy/cars_streaming_anomaly_detection)** - Spark + Kafka + Iceberg + Superset and AI agent in Telegram
+🔹 **[Real Time cars alerting pipeline](https://github.com/ATanskiy/cars_streaming_anomaly_detection)** – Spark + Kafka + Iceberg + Superset and AI agent in Telegram
 🔹 **[Used Cars Data Pipeline](https://github.com/ATanskiy/used_cars_dbt_project)** – dbt + Dagster + PostgreSQL + Superset dashboard  
 🔹 **[Sports Gear Sales ETL](https://github.com/ATanskiy/e2e_sport_sales_pipeline_with_airflow)** – ELT pipeline with MinIO, Airflow, postgres and Power BI dashboard  
 
